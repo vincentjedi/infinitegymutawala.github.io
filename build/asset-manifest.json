@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3acde06d.css",
+    "main.js": "/static/js/main.ebb1ff24.js",
+    "static/media/t-image1.png": "/static/media/t-image1.c16c2c261034cf78ee57.png",
+    "static/media/t-image3.jpg": "/static/media/t-image3.3894413f7bf2b4f1fc54.jpg",
+    "static/media/image4.png": "/static/media/image4.2c0d30b9ce1579eb1109.png",
+    "static/media/coaches.jpg": "/static/media/coaches.4b2029ce866f564585de.jpg",
+    "static/media/coachT.jpg": "/static/media/coachT.13e839f76506217e468b.jpg",
+    "static/media/hero_image_back.png": "/static/media/hero_image_back.9f54bfba33048f4ca688.png",
+    "static/media/inflogo.jpg": "/static/media/inflogo.57ed766fe67161ae1ba0.jpg",
+    "index.html": "/index.html",
+    "main.3acde06d.css.map": "/static/css/main.3acde06d.css.map",
+    "main.ebb1ff24.js.map": "/static/js/main.ebb1ff24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3acde06d.css",
+    "static/js/main.ebb1ff24.js"
+  ]
+}
